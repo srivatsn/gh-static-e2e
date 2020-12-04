@@ -2,7 +2,21 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch Chrome",
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Server",
+            "runtimeExecutable": "npm",
+            "runtimeArgs": [
+                "run-script",
+                "server"
+            ],
+            "port": 9229,
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "name": "Launch Chrome (Desktop Only)",
             "request": "launch",
             "type": "pwa-chrome",
             "url": "http://localhost:3000",
