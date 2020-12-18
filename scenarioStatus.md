@@ -19,3 +19,4 @@
 | 12/2/20 | n/a |:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|
 :red
 | 12/10/20 | n/a |:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:red_circle: https://github.com/microsoft/vscode-internalbacklog/issues/1680
+| 12/17/20 | n/a |:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:green_circle:|:red_circle: https://github.com/microsoft/vscode-internalbacklog/issues/1680
